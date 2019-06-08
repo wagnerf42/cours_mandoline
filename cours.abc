@@ -11,9 +11,9 @@ T: Level2
 R: reel
 M: 4/4
 L: 1/8
-K: Ador
-|:"A" ag ef gg fg |"C" ag ef gf ee |"E" ag ef gg fe |"D" ff ge fg aa :|
-|:"A" ag ab aa ge |"C" gg ge fg aa |"D" ag ab aa ge |"E" gg fg ee ee :|
+K: G
+|:"G" gg ag gg ag |"C" ee ge ee ge |"G" gg ag gg ag |"C" ee ef gg gg:|
+
 
 X: 3
 T: Level3
@@ -21,10 +21,19 @@ R: reel
 M: 4/4
 L: 1/8
 K: Ador
-|:"A" aa ga ef gg |"G" aa ga ee dd |"E" aa ga ef gg |"D" ge fg aa aa :|
+|:"A" ag ef gg fg |"C" ag ef gf ee |"E" ag ef gg fe |"D" ff ge fg aa :|
+|:"A" ag ab aa ge |"C" gg ge fg aa |"D" ag ab aa ge |"E" gg fg ee ee :|
 
 X: 4
 T: Level4
+R: reel
+M: 4/4
+L: 1/8
+K: Ador
+|:"A" aa ga ef gg |"G" aa ga ee dd |"E" aa ga ef gg |"D" ge fg aa aa :|
+
+X: 5
+T: Level5
 R: reel
 M: 4/4
 L: 1/8
