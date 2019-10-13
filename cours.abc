@@ -37,6 +37,6 @@ T: Level5
 R: reel
 M: 4/4
 L: 1/8
-K: Emin
-|:"E" ef ga bg af | "C" gg ga g2 f2 | "G" ef ga bg af | "B" ab ag f2 f2 :|
-|:"D" ab ag fa gf | "C" ga bg f2 f2 | "E" ef ga bg af | "G" gf eg "B" f2 f2 :|
+K: D
+|:"D" fe dA "G" B2 BA | "D" dA BA de fg | "D" fe dA "G" B2 BA | "A" dA Bc "D" d2 d2 :|
+|:"D" de fg "G" f2 fe | "Bm" dA BA "A" dA BA | "D" de fg "G" f2 fe | "A" dA Bc "D" ed d2 :|
