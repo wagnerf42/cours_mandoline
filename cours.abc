@@ -4,7 +4,7 @@ R: reel
 M: 4/4
 L: 1/8
 K: D
-|:"D" ff gf ff gf |"A" ee fe ee fe |"B" ff gf ff gf |"G" ag fg aa aa:|
+|:"D" ff gf ff gf |"A" ee fe ee fe |"Bm" ff gf ff gf |"G" ag fg aa aa:|
 
 X: 2
 T: Level2
@@ -21,8 +21,8 @@ R: reel
 M: 4/4
 L: 1/8
 K: Ador
-|:"A" ag ef gg fg |"C" ag ef gf ee |"E" ag ef gg fe |"D" ff ge fg aa :|
-|:"A" ag ab aa ge |"C" gg ge fg aa |"D" ag ab aa ge |"E" gg fg ee ee :|
+|:"Am" ag ef gg fg |"C" ag ef gf ee |"Em" ag ef gg fe |"D" ff ge fg aa :|
+|:"Am" ag ab aa ge |"C" gg ge fg aa |"D" ag ab aa ge |"Em" gg fg ee ee :|
 
 X: 4
 T: Level4
@@ -30,7 +30,7 @@ R: reel
 M: 4/4
 L: 1/8
 K: Ador
-|:"A" aa ga ef gg |"G" aa ga ee dd |"E" aa ga ef gg |"D" ge fg aa aa :|
+|:"Am" aa ga ef gg |"G" aa ga ee dd |"Em" aa ga ef gg |"D" ge fg aa aa :|
 
 X: 5
 T: Level5
@@ -49,3 +49,12 @@ L: 1/8
 K: Edor
 |: "Em" ef ed Bc d2 | "G" ef ed B2 A2 | "A" ef ed Bc d2 | "Bm" dB cd e2 e2 :|
 |: "Em" ef ge gf ed | "D" ef ed B2 AB | "C" ef ge gf ed | "G" dB cd "A" e2 e2 :|
+
+X: 7
+T: Level7
+R: Jig
+M: 6/8
+L: 1/8
+K: Dm
+|: "Dm" [Dd]e[Af] "G" [b3g3] | "Dm" [d3a3] [d3a3] | [Dd]e[Af] "G" [c3g3] | "Am" [A3C3a3e3] [A3C3a3e3] :|
+|: "Dm" [Ag]fe [A2f2]g | [A2a2]f "Am" [A3C3a3e3] | "Dm" [Ag]fe [A2f2]g | "Am" [A3C3a3e3] [A3C3a3e3]:|
